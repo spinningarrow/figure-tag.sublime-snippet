@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<figure>
+	<a rel="lightbox" href="$1">
+		<img src="$1" alt="$2">
+	</a>
+	<figcaption>$3</figcaption>
+</figure>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>figure</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
